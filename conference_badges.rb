@@ -17,3 +17,4 @@ def assign_rooms(speakers)
   end
   return greeting
 end
+
