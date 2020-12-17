@@ -1,3 +1,4 @@
 def badge_maker(name)
-  puts "Hello, my name is #{name}."
+  greeting = puts "Hello, my name is #{name}."
+  return greeting
 end
