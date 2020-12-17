@@ -8,3 +8,4 @@ def batch_badge_creator(name)
     greeting << "Hello, I'm #{name}"
   end
   return greeting
+end
