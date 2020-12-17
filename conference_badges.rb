@@ -25,5 +25,6 @@ def printer(attendees)
   end
   assignments = assign_rooms(speakers)
   assignments.each do |room_num|
-    puts assignments
-  
+    puts room_num
+  end
+end  
