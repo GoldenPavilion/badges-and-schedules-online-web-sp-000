@@ -1,3 +1,3 @@
-batch_maker(name)
+def batch_maker(name)
   puts "Hello, my name is #{name}."
 end
