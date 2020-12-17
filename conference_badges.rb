@@ -9,3 +9,5 @@ def batch_badge_creator(names)
   end
   return greeting
 end
+
+def assign_rooms
