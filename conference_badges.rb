@@ -12,5 +12,6 @@ end
 
 def assign_rooms(speakers)
   greeting = []
+  speakers.each_with_index do 
   
 end
